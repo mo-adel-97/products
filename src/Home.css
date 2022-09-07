@@ -1,0 +1,10 @@
+.homePage{
+    background-image: url(./images/background.jpg);
+    height: 733px;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.4;
+   
+}
